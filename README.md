@@ -8,7 +8,7 @@
 ![Java](images/icons/Java.png)
 ![Gradle](images/icons/Gradle.png)
 ![JUnit5](images/icons/JUnit5.png)
-![Selenide](images/icons/REST Assured.png)
+![Selenide](images/icons/RESTAssured.png)
 ![Allure_Report](images/icons/Allure_Report.png)
 ![Allure_TestOps](images/icons/TestOps.svg)
 ![Jenkins](images/icons/Jenkins.png)
