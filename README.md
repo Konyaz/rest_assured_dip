@@ -1,6 +1,6 @@
 ## Api automation testing for https://reqres.in/
 
-#### *Quick project example with infrastructure: Api tests with Allure report, and push notifications to Telegram*
+#### *Project example with infrastructure: Api tests with Allure report, and push notifications to Telegram*
 
 ### Technology Stack
 
@@ -13,6 +13,13 @@
 ![Allure_TestOps](images/icons/TestOps.svg)
 ![Jenkins](images/icons/Jenkins.png)
 ![Telegram](images/icons/Telegram.png)
+
+## Run locally
+
+If you've downloaded these tests to your computer, run them with the following command:
+```bash
+gradle clean test
+```
 
 ### Allure report
 ![Allure](images/Allure1.png)
@@ -28,7 +35,9 @@ Test cases
 
 
 ### Jenkins
-https://jenkins.autotests.cloud/job/rest_assured_dip/
+
+Click <a target="_blank" href="https://jenkins.autotests.cloud/job/rest_assured_dip/">here</a> to run the tests.
+
 ![Jenkins](images/Jenkins.png)
 
 ### Telegram
