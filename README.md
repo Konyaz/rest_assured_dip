@@ -17,14 +17,18 @@
 ### Allure report
 ![Allure](images/Allure1.png)
 ![Allure](images/Allure2.png)
-![Allure](images/Allure3.png)
 
-### Allure TestOps  Launches 
-![TestOps launches](images/AllureTestOps.png)
+
+### Allure TestOps  
+Dashboards
+![TestOps Dashboards](images/AllureTestOps.png)
+
+Test cases
+![TestOps TestCases](images/AllureTestOps1.png)
 
 
 ### Jenkins
-https://jenkins.autotests.cloud/job/AWG/
+https://jenkins.autotests.cloud/job/rest_assured_dip/
 ![Jenkins](images/Jenkins.png)
 
 ### Telegram
