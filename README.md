@@ -14,14 +14,16 @@
 ![Jenkins](images/icons/Jenkins.png)
 ![Telegram](images/icons/Telegram.png)
 
+### Еxamples of Automated Mobile tests are <a target="_blank" href="https://github.com/Konyaz/Browserstack_dip">here</a> :green_circle:
+### Еxamples of UI tests are <a target="_blank" href="https://github.com/Konyaz/insales_dip/">here</a> :green_circle:
+
 ## Run locally
 
 If you've downloaded these tests to your computer, run them with the following command:
 ```bash
 gradle clean test
 ```
-### Еxamples of Automated Mobile tests are <a target="_blank" href="https://github.com/Konyaz/Browserstack_dip">here</a> :green_circle:
-### Еxamples of UI tests are <a target="_blank" href="https://github.com/Konyaz/insales_dip/">here</a> :green_circle:
+
 
 ### Allure report
 ![Allure](images/Allure1.png)
